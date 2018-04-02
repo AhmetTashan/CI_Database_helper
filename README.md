@@ -25,7 +25,8 @@ Simple use:
   ## output: USERS.FULL_NAME, USERS.PASSWORD AS password, OPTIONS.VALUE AS val
 ```
 
-Mysql:
+Exmaple Mysql
+-----
 ### OPTIONS Table
 ```sql
 +----------+-------------+----------------+
