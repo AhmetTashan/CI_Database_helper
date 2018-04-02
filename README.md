@@ -27,7 +27,7 @@ Simple use:
 
 Exmaple Mysql
 -----
-### OPTIONS Table
+#### OPTIONS Table
 ```sql
 +----------+-------------+----------------+
 |       ID | NAME        | VALUE          |
@@ -36,7 +36,7 @@ Exmaple Mysql
 |        2 | SUG         | AHMETTASHAN    |
 +----------+-------------+----------------+
 ```
-### USERS Table
+#### USERS Table
 ```sql
 +----------+-------------+----------------+----------------+
 |       ID | USERNAME    | FULL_NAME      | PASSWORD       |
