@@ -33,7 +33,7 @@ Exmaple Mysql
 |       ID | NAME        | VALUE          |
 +----------+-------------+----------------+
 |        1 | HOME        | www.site.com   |
-|        2 | SUG         | AHMETTASHAN    |
+|        2 | SITENAME    | AHMETTASHAN    |
 +----------+-------------+----------------+
 ```
 #### USERS Table
