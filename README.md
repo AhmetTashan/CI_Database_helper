@@ -5,6 +5,12 @@ Usage
 -----
 We add database tables and column names to the appication/config/config-table.php file.
 
+We call the helper file where we want to use.
+
+```
+  $this->load->helper('config');
+```
+
 Simple use:
 ```php
   echo table('users');
