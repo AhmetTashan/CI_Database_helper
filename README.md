@@ -3,11 +3,8 @@
 
 Usage
 -----
+We add database tables and column names to the appication/config/config-table.php file.
 
-Include:
-```php
-  $this->load->helper('config');
-```
 Simple use:
 ```php
   echo table('users');
@@ -25,7 +22,7 @@ Simple use:
   ## output: USERS.FULL_NAME, USERS.PASSWORD AS password, OPTIONS.VALUE AS val
 ```
 
-Exmaple Mysql
+Example Mysql
 -----
 #### OPTIONS Table
 ```
